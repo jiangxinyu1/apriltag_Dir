@@ -1,0 +1,11 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~tag_family" : \b [int] Tag family min: 0, default: 4, max: 4
+- \b "~only_known_tags" : \b [bool] Return only tags listed in config/single_tags.txt min: False, default: False, max: True
+- \b "~refine_corners" : \b [bool] Refine tag corners by direct edge optimization min: False, default: True, max: True
+- \b "~filter_cross_corners" : \b [bool] Filter tags without clean cross corners min: False, default: True, max: True
+- \b "~publish_tf" : \b [bool] Publish the tag poses to tf min: False, default: True, max: True
+- \b "~draw_image" : \b [bool] Publish image with detected tags min: False, default: True, max: True
+

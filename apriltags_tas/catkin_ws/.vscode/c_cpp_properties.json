@@ -1,0 +1,20 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/xinyu/workspace/360/apriltags_tas/catkin_ws/devel_isolated/apriltags_tas/include/**",
+        "/home/xinyu/workspace/360/apriltags_tas/catkin_ws/devel_isolated/apriltags_msgs/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/xinyu/workspace/360/apriltags_tas/catkin_ws/src/apriltags_tas/apriltags/include/**",
+        "/home/xinyu/workspace/360/apriltags_tas/catkin_ws/src/apriltags_tas/apriltags_tas/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

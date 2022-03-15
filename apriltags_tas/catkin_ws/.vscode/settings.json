@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/xinyu/workspace/360/apriltags_tas/catkin_ws/devel_isolated/apriltags_tas/lib/python2.7/dist-packages",
+        "/home/xinyu/workspace/360/apriltags_tas/catkin_ws/devel_isolated/apriltags_msgs/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/xinyu/workspace/360/apriltags_tas/catkin_ws/devel_isolated/apriltags_tas/lib/python2.7/dist-packages",
+        "/home/xinyu/workspace/360/apriltags_tas/catkin_ws/devel_isolated/apriltags_msgs/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ]
+}

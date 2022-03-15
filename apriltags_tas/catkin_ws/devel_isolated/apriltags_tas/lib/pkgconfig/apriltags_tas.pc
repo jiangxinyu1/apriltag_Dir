@@ -1,0 +1,8 @@
+prefix=/home/xinyu/workspace/360/apriltag_Dir/apriltags_tas/catkin_ws/devel_isolated/apriltags_tas
+
+Name: apriltags_tas
+Description: Description of apriltags_tas
+Version: 0.0.0
+Cflags: -I/home/xinyu/workspace/360/apriltag_Dir/apriltags_tas/catkin_ws/devel_isolated/apriltags_tas/include -I/home/xinyu/workspace/360/apriltag_Dir/apriltags_tas/catkin_ws/src/apriltags_tas/apriltags_tas/include
+Libs: -L${prefix}/lib 
+Requires: roscpp dynamic_reconfigure std_msgs sensor_msgs image_geometry image_transport tf2_ros tf cv_bridge apriltags apriltags_msgs

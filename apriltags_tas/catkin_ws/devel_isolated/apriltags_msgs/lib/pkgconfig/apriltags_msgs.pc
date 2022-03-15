@@ -1,0 +1,8 @@
+prefix=/home/xinyu/workspace/360/apriltag_Dir/apriltags_tas/catkin_ws/devel_isolated/apriltags_msgs
+
+Name: apriltags_msgs
+Description: Description of apriltags_msgs
+Version: 0.0.1
+Cflags: -I/home/xinyu/workspace/360/apriltag_Dir/apriltags_tas/catkin_ws/devel_isolated/apriltags_msgs/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

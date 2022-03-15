@@ -1,0 +1,2 @@
+apriltags_tas/apriltags:apriltags_tas/apriltags_msgs:apriltags_tas/apriltags_tas:catkin_simple
+-G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/xinyu/workspace/360/apriltag_Dir/apriltags_tas/catkin_ws/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/xinyu/workspace/360/apriltag_Dir/apriltags_tas/catkin_ws/install_isolated

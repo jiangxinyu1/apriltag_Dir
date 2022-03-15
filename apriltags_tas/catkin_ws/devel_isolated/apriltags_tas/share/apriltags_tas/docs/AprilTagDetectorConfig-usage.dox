@@ -1,0 +1,12 @@
+\subsubsection usage Usage
+\verbatim
+<node name="apriltags_tas" pkg="apriltags_tas" type="apriltags_tas">
+  <param name="tag_family" type="int" value="4" />
+  <param name="only_known_tags" type="bool" value="False" />
+  <param name="refine_corners" type="bool" value="True" />
+  <param name="filter_cross_corners" type="bool" value="True" />
+  <param name="publish_tf" type="bool" value="True" />
+  <param name="draw_image" type="bool" value="True" />
+</node>
+\endverbatim
+
